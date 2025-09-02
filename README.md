@@ -76,7 +76,7 @@ I started trading during university and found that pricey journals and clunky sp
 21. **Settings — Privacy & Security (export, delete, local-first)**  
     `docs/screenshots/settings-privacy.png`
 
-> Tip: add a short GIF walkthrough (`docs/preview.gif`) and pin it to the top of the repo.
+>  A short GIF walkthrough (`docs/preview.gif`) and pin it to the top of the repo.
 
 ---
 
