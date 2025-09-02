@@ -1,1 +1,1 @@
-# TradingJournal-Documentation-
+# TradingJournal-Documentation
