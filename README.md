@@ -69,13 +69,13 @@ I started trading during university and found that pricey journals and clunky sp
 ### Light theme
 11. **Dashboard — Overview (light)**  
     
-      ![](Screenshots/20 White.png)
+      ![](Screenshots/20Light.png)
 
 
 ### Dark theme
 12. **Dashboard — Overview (dark)**  
     
-      ![](Screenshots/21 Black.png)
+      ![](Screenshots/21Dark.png)
 
 ### Trade entry (wizard)
 13. **Step 1 — Market, symbol, direction, date**  
