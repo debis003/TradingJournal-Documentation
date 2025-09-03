@@ -22,7 +22,7 @@ I started trading during university and found that pricey journals and clunky sp
 ---
 
 ## Screenshots
-> Screenshots — currently capturing the latest UI across all themes - Note: All values in the screenshots are generated test data.
+> Screenshots — currently capturing the latest UI across all themes - Note: All values in the screenshots are generated demo data.
 
 ### Galaxy theme (core walkthrough)
 1. **Dashboard — Overview**  
