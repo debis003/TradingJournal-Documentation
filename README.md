@@ -22,61 +22,101 @@ I started trading during university and found that pricey journals and clunky sp
 ---
 
 ## Screenshots
-> Screenshots coming soon — currently capturing the latest UI across all themes.
+> Screenshots — currently capturing the latest UI across all themes - Note: All values in the screenshots are generated test data.
 
 ### Galaxy theme (core walkthrough)
 1. **Dashboard — Overview**  
-   `docs/screenshots/galaxy-dashboard-overview.png`
-2. **Dashboard — Day details modal**  
-   `docs/screenshots/galaxy-dashboard-day-modal.png`
-3. **Reports — Overall Summary**  
-   `docs/screenshots/galaxy-reports-overall-summary.png`
-4. **Reports — Performance**  
-   `docs/screenshots/galaxy-reports-performance.png`
-5. **Reports — Analytics (overview + key stats)**  
-   `docs/screenshots/galaxy-reports-analytics.png`
-6. **Reports — Evaluation (Risk Multiple histogram & notes)**  
-   `docs/screenshots/galaxy-reports-evaluation.png`
-7. **Reports — Trade Log (search • filter • CSV export)**  
-   `docs/screenshots/galaxy-reports-trade-log.png`
-8. **Reports — Trade Statistics (win rate, PF, averages, risk)**  
-   `docs/screenshots/galaxy-reports-trade-statistics.png`
-9. **Reports — Monthly Report (equity vs volume)**  
-   `docs/screenshots/galaxy-reports-monthly.png`
-10. **Dashboard — Yearly summary**  
-    `docs/screenshots/galaxy-dashboard-yearly-summary.png`
+  
+   ![](Screenshots/1.png)
+   
+3. **Dashboard — Trading Calander Day details modal** 
+  
+    ![](Screenshots/3.png)
+     
+5. **Reports — Overall Summary**  
+   
+    ![](Screenshots/4.png)
+      
+7. **Reports — Performance**  
+   
+      ![](Screenshots/5.png)
+   
+9. **Reports — Analytics (overview + key stats)**  
+   
+   
+    ![](Screenshots/6.png)
+11. **Reports — Evaluation (Risk Multiple histogram & notes)**  
+   
+   
+    ![](Screenshots/7.png)
+13. **Reports — Trade Log (search • filter • CSV export)**  
+   
+     ![](Screenshots/8.png)
+       
+15. **Reports — Trade Statistics (win rate, PF, averages, risk)**  
+   
+  
+    ![](Screenshots/9.png)
+17. **Reports — Monthly Report (equity vs volume)**  
+    
+    
+     ![](Screenshots/10.png)
+19. **Dashboard — Yearly summary**  
+    
+    ![](Screenshots/2.png)
+   
 
 ### Light theme
 11. **Dashboard — Overview (light)**  
-    `docs/screenshots/light-dashboard-overview.png`
+    
+      ![](Screenshots/20 White.png)
+
 
 ### Dark theme
 12. **Dashboard — Overview (dark)**  
-    `docs/screenshots/dark-dashboard-overview.png`
+    
+      ![](Screenshots/21 Black.png)
 
 ### Trade entry (wizard)
 13. **Step 1 — Market, symbol, direction, date**  
-    `docs/screenshots/new-trade-step1.png`
-14. **Step 2 — Result (simple): win/loss, fees, R:R**  
-    `docs/screenshots/new-trade-step2-simple.png`
-15. **Step 2 — Detailed: entries, TP/SL, exit**  
-    `docs/screenshots/new-trade-step2-detailed.png`
-16. **Step 3 — Setup, timeframe, duration**  
-    `docs/screenshots/new-trade-step3.png`
-17. **Step 4 — Journal entry with templates**  
-    `docs/screenshots/new-trade-step4-notes.png`
+   
+      ![](Screenshots/15.png)
+
+15. **Step 2 — Result (simple): win/loss, fees, R:R**  
+    
+    ![](Screenshots/17.png)
+    
+17. **Step 2 — Detailed: entries, TP/SL, exit**
+    
+      ![](Screenshots/16.png)
+        
+19. **Step 3 — Setup, timeframe, duration**  
+    
+     ![](Screenshots/18.png)
+   
+21. **Step 4 — Journal entry with templates**  
+    ![](Screenshots/19.png)
 
 ### Notes & Settings
-18. **Notes — Workspace (journal, session recap, goals, plans)**  
-    `docs/screenshots/notes-workspace.png`
-19. **Settings — General (account fields placeholder)**  
-    `docs/screenshots/settings-general.png`
-20. **Settings — Appearance (Light • Dark • Galaxy)**  
-    `docs/screenshots/settings-appearance.png`
-21. **Settings — Privacy & Security (export, delete, local-first)**  
-    `docs/screenshots/settings-privacy.png`
+18. **Notes — Workspace (journal, session recap, goals, plans)**
+    
+     ![](Screenshots/11.png)
+    
+20. **Settings — General (account fields placeholder)**  
+    
+     ![](Screenshots/12.png)
+ 
+22. **Settings — Appearance (Light • Dark • Galaxy)**  
+    
+     ![](Screenshots/13.png)
+      
+24. **Settings — Privacy & Security (export, delete, local-first)**  
+   
+   
+    ![](Screenshots/14.png)
+   
 
->  A short GIF walkthrough (`docs/preview.gif`) and pin it to the top of the repo.
+>  A short GIF walkthrough (`docs/preview.gif`) and reminder for myself pin it to the top of the repo.
 
 ---
 
