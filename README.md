@@ -179,7 +179,7 @@ To be announced.
 
 ## Contact
 **Author:** Deborah Boatemaa Aittokallio  
-**LinkedIn:** linkedin.com/in/deborah-aittokallio-75b93a199 • **Email:** 
+**LinkedIn:** linkedin.com/in/deborah-aittokallio-75b93a199 • **Email:** debstradingjournal@gmail.com
 
 ---
 
