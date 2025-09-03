@@ -138,9 +138,6 @@ I started trading during university and found that pricey journals and clunky sp
 **Nice-to-have**
 - Mobile quick-log  
 - Journal prompts & review templates  
-- Multi-account/assets  
-- Public API for programmatic logging
-
 ---
 
 ## FAQ
