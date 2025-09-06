@@ -131,9 +131,7 @@ I started trading during university and found that pricey journals and clunky sp
 ## Roadmap
 **Next up**
 - Backend + auth/sessions  
-- Enhanced trade data model (sessions/tags) + improved import  
-- Analytics v1 (equity curve, drawdown, expectancy, R:R buckets)  
-- Review mode (filters, “mistake taxonomy”), export/backup
+- Enhanced trade data model (sessions/tags) 
 
 **Nice-to-have**
 - Mobile quick-log  
