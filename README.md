@@ -1,4 +1,4 @@
-# TradingJournal
+# TradingJournal [Info currently being updated!]
 **A student-built trading journal — clean, fast, and actually affordable.**
 
 > I couldn't justify $30/month for a trading journal as a student, so I spent nights & weekends building my own. Frontend is largely done; backend comes next. Feedback welcome.
