@@ -17,7 +17,7 @@ I started trading during university and found that pricey journals and clunky sp
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](2025-12/Dashboard.png)
 
 Your trading command center. Everything you need at a glance:
 
@@ -53,7 +53,7 @@ Deep dive into your performance across three tabs:
 
 | Performance | Analytics | Trade Log |
 |-------------|-----------|-----------|
-| ![Performance](screenshots/reports-performance.png) | ![Analytics](screenshots/reports-analytics.png) | ![Trade Log](screenshots/reports-tradelog.png) |
+| ![Performance](2025-12/reports-performance.png) | ![Analytics](2025-12/reports-analytics.png) | ![Trade Log](2025-12/reports-tradelog.png) |
 
 #### Performance Tab
 - **Period Comparison** — Compare months side-by-side (Net P&L, Trades, Win Rate, Avg Win/Loss, Profit Factor)
@@ -78,7 +78,7 @@ Deep dive into your performance across three tabs:
 
 ### Journal
 
-![Journal](screenshots/journal.png)
+![Journal](2025-12/journal.png)
 
 Your private trading notebook with full organization and rich editing:
 
@@ -123,7 +123,7 @@ Log trades your way with Simple or Detailed mode:
 
 | Step 1 - Trade Info | Step 2 - Results | Step 3 - Context | Step 4 - Journal |
 |---------------------|------------------|------------------|------------------|
-| ![Step 1](screenshots/trade-entry-step1.png) | ![Step 2](screenshots/trade-entry-step2.png) | ![Step 3](screenshots/trade-entry-step3.png) | ![Step 4](screenshots/trade-entry-step4.png) |
+| ![Step 1](2025-12/trade-entry-step1.png) | ![Step 2](2025-12/trade-entry-step2.png) | ![Step 3](2025-12/trade-entry-step3.png) | ![Step 4](2025-12/trade-entry-step4.png) |
 
 **Simple Mode** — Quick entry when you just need the basics
 
@@ -159,7 +159,7 @@ Customize your experience across three tabs:
 
 | General | Appearance | Privacy & Security |
 |---------|------------|-------------------|
-| ![General](screenshots/settings-general.png) | ![Appearance](screenshots/settings-appearance.png) | ![Privacy](screenshots/settings-privacy.png) |
+| ![General](2025-12/Settings_geneeral.png) | ![Appearance](2025-12/Settings_appearance.png) | ![Privacy](2025-12/Settings_privacy and security.png) |
 
 #### General Tab
 - **Username** — Set your display name
@@ -182,13 +182,13 @@ Customize your experience across three tabs:
 
 | Light | Dark | Galaxy |
 |-------|------|--------|
-| ![Light](screenshots/theme-light.png) | ![Dark](screenshots/theme-dark.png) | ![Galaxy](screenshots/theme-galaxy.png) |
+| ![Light](2025-12/Dashboard_light.png) | ![Dark](2025-12/Dashboard_dark.png) | ![Galaxy](2025-12/Dashboard.png) |
 
 ---
 
 ### Desktop App
 
-![Desktop App](screenshots/desktop-app.png)
+![Desktop App](2025-12/desktop-app.png)
 
 Native Windows application with:
 - Custom frameless title bar
