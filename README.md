@@ -53,7 +53,7 @@ Deep dive into your performance across three tabs:
 
 | Performance | Analytics | Trade Log |
 |-------------|-----------|-----------|
-| ![Performance](2025-12/Reports_Performance.png) | ![Analytics](2025-12/Reports_Analytics.png) | ![Trade Log](2025-12/Reports_Trade Log.png) |
+| ![Performance](2025-12/Reports_Performance.png) | ![Analytics](2025-12/Reports_Analytics.png) | ![Trade Log](2025-12/Reports_Trade_Log.png) |
 
 #### Performance Tab
 - **Period Comparison** — Compare months side-by-side (Net P&L, Trades, Win Rate, Avg Win/Loss, Profit Factor)
@@ -78,7 +78,7 @@ Deep dive into your performance across three tabs:
 
 ### Journal
 
-![Journal](2025-12/journal.png)
+![Journal](2025-12/Journal_Notes.png)
 
 Your private trading notebook with full organization and rich editing:
 
@@ -121,9 +121,9 @@ Your private trading notebook with full organization and rich editing:
 
 Log trades your way with Simple or Detailed mode:
 
-| Step 1 - Trade Info | Step 2 - Results | Step 3 - Context | Step 4 - Journal |
-|---------------------|------------------|------------------|------------------|
-| ![Step 1](2025-12/trade-entry-step1.png) | ![Step 2](2025-12/trade-entry-step2.png) | ![Step 3](2025-12/trade-entry-step3.png) | ![Step 4](2025-12/trade-entry-step4.png) |
+| Step 1 - Trade Info | Step 2 - Results_Detailed | Step 2 - Results_Simple | Step 3 - Context | Step 4 - Journal |
+|---------------------|---------------------------|-------------------------|------------------|------------------|
+| ![Step 1](2025-12/New_trade_step_1.png) | ![Step 2](2025-12/New_trade_step_2_detailed.png)| ![Step 2](2025-12/New_trade_step_2_simple.png)  | ![Step 3](2025-12/New_trade_step_3.png) | ![Step 4](2025-12/New_trade_step_4.png) |
 
 **Simple Mode** — Quick entry when you just need the basics
 
