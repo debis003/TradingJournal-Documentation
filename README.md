@@ -53,7 +53,7 @@ Deep dive into your performance across three tabs:
 
 | Performance | Analytics | Trade Log |
 |-------------|-----------|-----------|
-| ![Performance](2025-12/reports-performance.png) | ![Analytics](2025-12/reports-analytics.png) | ![Trade Log](2025-12/reports-tradelog.png) |
+| ![Performance](2025-12/Reports_Performance.png) | ![Analytics](2025-12/Reports_Analytics.png) | ![Trade Log](2025-12/Reports_Trade Log.png) |
 
 #### Performance Tab
 - **Period Comparison** — Compare months side-by-side (Net P&L, Trades, Win Rate, Avg Win/Loss, Profit Factor)
@@ -159,7 +159,7 @@ Customize your experience across three tabs:
 
 | General | Appearance | Privacy & Security |
 |---------|------------|-------------------|
-| ![General](2025-12/Settings_geneeral.png) | ![Appearance](2025-12/Settings_appearance.png) | ![Privacy](2025-12/Settings_privacy and security.png) |
+| ![General](2025-12/Settings_geneeral.png) | ![Appearance](2025-12/Settings_appearance.png) | ![Privacy](2025-12/Settings_privacy_security.png) |
 
 #### General Tab
 - **Username** — Set your display name
