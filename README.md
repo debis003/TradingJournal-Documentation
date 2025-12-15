@@ -188,7 +188,7 @@ Customize your experience across three tabs:
 
 ### Desktop App
 
-![Desktop App](2025-12/desktop-app.png)
+![Desktop App](2025-12/desktop-app.jpg)
 
 Native Windows application with:
 - Custom frameless title bar
