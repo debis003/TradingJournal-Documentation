@@ -13,7 +13,7 @@ I started trading during university and found that pricey journals and clunky sp
 
 ## App Walkthrough
 
-> All screenshots use demo data. Replace screenshot paths with your actual filenames.
+> All screenshots use demo data.
 
 ### Dashboard
 
