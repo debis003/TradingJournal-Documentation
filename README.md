@@ -1,5 +1,5 @@
 # TradingJournal
-**A student-built trading journal — clean, fast, and actually affordable.**
+**A student-built trading journal - clean, fast, and actually affordable.**
 
 > Most trading journals cost $30+/month or lock you into clunky spreadsheets. This one is built for traders who'd rather spend on the markets than on tooling.
 
@@ -18,12 +18,12 @@ I started trading during university and found that pricey journals and clunky sp
 
 ## Features
 
-- **Performance Analytics** — Win rate, profit factor, expectancy, and more
-- **Trade Calendar** — Visual daily P&L heatmap with trade details
-- **Rich Journal** — Full editor with images, tables, and slash commands
-- **Risk Metrics** — R-multiple distribution and expectancy tracking
-- **Psychology Scoring** — Track fear, greed, confidence across every trade
-- **100% Offline** — Your data never leaves your machine
+- **Performance Analytics** - Win rate, profit factor, expectancy, and more
+- **Trade Calendar** - Visual daily P&L heatmap with trade details
+- **Rich Journal** - Full editor with images, tables, and slash commands
+- **Risk Metrics** - R-multiple distribution and expectancy tracking
+- **Psychology Scoring** - Track fear, greed, confidence across every trade
+- **100% Offline** - Your data never leaves your machine
 
 ---
 
@@ -40,10 +40,10 @@ I started trading during university and found that pricey journals and clunky sp
 
 ## Design Principles
 
-- **Essentials first** — only the metrics and flows that change behavior
-- **Low friction** — quick logging + powerful review
-- **Your data, your rules** — local-first with explicit export; any future cloud sync will be opt-in
-- **Accessible pricing** — students and small accounts shouldn't pay enterprise prices
+- **Essentials first** - only the metrics and flows that change behavior
+- **Low friction** - quick logging + powerful review
+- **Your data, your rules** - local-first with explicit export; any future cloud sync will be opt-in
+- **Accessible pricing** - tudents and small accounts shouldn't pay enterprise prices
 
 ---
 
@@ -87,4 +87,4 @@ The [`2025-12/`](2025-12/) folder contains the original app walkthrough with scr
 
 Nothing here is financial advice. Trade responsibly.
 
-This project is actively under development — features and UI may change.
+This project is actively under development - features and UI may change.
