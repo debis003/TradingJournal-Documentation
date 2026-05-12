@@ -3,6 +3,13 @@
 
 > Most trading journals cost $30+/month or lock you into clunky spreadsheets. This one is built for traders who'd rather spend on the markets than on tooling.
 
+## Why this exists
+
+I started trading during university and found that pricey journals and clunky spreadsheets slowed me down. Over ~3 years I learned by building, at times with help from AI coding/design assistants for scaffolding, refactors, and iteration. The goal: **a focused journal that helps you improve without blowing profits on tooling**.
+*Note: the product itself does not include AI features (yet).*
+
+---
+
 ## Live Demo
 
 **[Try the interactive demo](https://trading-journal-eta-lilac.vercel.app)** — loaded with sample data, fully interactive. No sign-up required.
