@@ -12,7 +12,7 @@ I started trading during university and found that pricey journals and clunky sp
 
 ## Live Demo
 
-**[Try the interactive demo]([https://tradingjournal-production-4d90.up.railway.app/demo])** — loaded with sample data, fully interactive. No sign-up required.
+**[Try the interactive demo](https://tradingjournal-production-4d90.up.railway.app/demo)** — loaded with sample data, fully interactive. No sign-up required.
 
 ---
 
