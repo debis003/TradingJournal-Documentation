@@ -50,7 +50,7 @@ I started trading during university and found that pricey journals and clunky sp
 ## Roadmap
 
 **Completed**
-- Interactive demo deployed at [trading-journal-eta-lilac.vercel.app](https://trading-journal-eta-lilac.vercel.app)
+- Interactive demo deployed at [https://tradingjournal-production-4d90.up.railway.app](https://tradingjournal-production-4d90.up.railway.app/demo)
 - Desktop app build (Tauri/.exe)
 - Three themes (Light, Dark, Galaxy)
 - Rich text journal with drag-and-drop, slash commands, image float
