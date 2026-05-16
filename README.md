@@ -79,7 +79,7 @@ The [`2025-12/`](2025-12/) folder contains the original app walkthrough with scr
 **Author:** Deborah Boatemaa Aittokallio
 **GitHub:** [github.com/debis003](https://github.com/debis003)
 **LinkedIn:** [linkedin.com/in/deborah-aittokallio-75b93a199](https://linkedin.com/in/deborah-aittokallio-75b93a199)
-**Email:** debstradingjournal@gmail.com
+**Email:** debprojects33@gmail.com
 
 ---
 
